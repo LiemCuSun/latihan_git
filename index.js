@@ -2,11 +2,15 @@ console.log("Hello World")
 console.log("Practice GIT & GITHUB")
 
 // NOTES : GIT & GITHUB
-
+console.log('perubahan baru')
 console.log("feature baru")
-//  test
-
-
-
 console.log("latihan liem cu sun")
-// test latihan
+
+console.log('feature jane')
+console.log("hello")
+console.log("hello! -rean")
+//  test
+console.log("Hello Gading")
+console.log(`test`)
+console.log("coba dian")
+
