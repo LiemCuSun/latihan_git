@@ -5,3 +5,8 @@ console.log("Practice GIT & GITHUB")
 
 console.log("feature baru")
 //  test
+
+
+
+console.log("latihan liem cu sun")
+// test latihan
